@@ -29,7 +29,7 @@ def main():
   <div class=\"container\">
     <h1>Public Keys</h1>
     <pre><code class=\"language-ssh\">{keys}</code></pre>
-    <p><a href=\"/text\">View as plaintext</a></p>
+    <p><a href=\"./text\">View as plaintext</a></p>
   </div>
   <script src=\"https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js\"></script>
   <script src=\"https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-clike.min.js\"></script>
